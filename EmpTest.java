@@ -1,4 +1,4 @@
-Define a class Employee with the following members:
+/*Define a class Employee with the following members:
 Data members: private String empName
  private String empNo
  private intdependentCnt
@@ -8,7 +8,7 @@ intdepCount(): returns dependentCnt
 Write a separate class called EmpTest with a main method thatdefine an array of n
 employees where the value of n will be inputted from the user. Read and store the
 information of all n employees. Display the details of the employees with more than two
-dependents.
+dependents.*/
 
 import java.util.Scanner;
 public class EmpTest{
