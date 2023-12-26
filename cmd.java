@@ -1,3 +1,7 @@
+/*Write a program that will take two integer numbers from the command prompt and find
+their GCD and LCM. If the user does not provide exactly two numbers of arguments then
+the program should display error message.*/
+
 public class cmd {
     public static void main(String[] args) {
         System.out.println("No of  Arguements: "+args.length);
