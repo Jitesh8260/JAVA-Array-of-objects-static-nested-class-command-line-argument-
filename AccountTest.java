@@ -7,7 +7,7 @@ interest amount.
 Create an array of object of the class Account. Store the details of each object through the
 parameterized constructor. Display all the account details by calling the method
 showAccDetails().Change the interest rate to a new one by calling the method
-changeIntRate(). Finally display the account details after the change in interest rate*/
+changeIntRate(). Finally display the accoun t details after the change in interest rate*/
 
 import java.util.Scanner;
 
