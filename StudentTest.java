@@ -25,7 +25,7 @@ public class StudentTest{
             int pin = scanner.nextInt();
 
             Student student = new Student(name, roll, city, pin);
-            student.displa yStudent();
+            student.displayStudent();
             System.out.println();
         }
 }
