@@ -19,7 +19,7 @@ public class StudentTest{
             String name = scanner.next();
             System.out.println("Roll: ");
             int roll = scanner.nextInt();
-            System.out.println("C ity: ");
+            System.out.println("City: ");
             String city = scanner.next();
             System.out.println("Pin: ");
             int pin = scanner.nextInt();
