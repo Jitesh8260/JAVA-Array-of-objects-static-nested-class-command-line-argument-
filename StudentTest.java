@@ -14,7 +14,8 @@ public class StudentTest{
         int n = scanner.nextInt();
 
         for (int i = 0; i < n; i++) {
-            System.out.println("Enter student " + (i + 1) + " details: ");
+            System.out.printl
+                n("Enter student " + (i + 1) + " details: ");
             System.out.println("Name: ");
             String name = scanner.next();
             System.out.println("Roll: ");
