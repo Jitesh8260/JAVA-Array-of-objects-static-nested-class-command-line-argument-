@@ -11,7 +11,7 @@ public class StudentTest{
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the number of students: ");
-        int n = scan ner.nextInt();
+        int n = scanner.nextInt();
 
         for (int i = 0; i < n; i++) {
             System.out.println("Enter student " + (i + 1) + " details: ");
