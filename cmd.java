@@ -3,7 +3,7 @@ their GCD and LCM. If the user does not provide exactly two numbers of arguments
 the program should display error message.*/
 
 public class cmd {
-    public static  void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("No of  Arguements: "+args.length);
          if(args.length==2){
         int i;
