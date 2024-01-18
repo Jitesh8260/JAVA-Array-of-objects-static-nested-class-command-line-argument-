@@ -18,7 +18,7 @@ public class cmd {
         for(i=s;i>0;i--)
         {
             if(a%i==0 && b%i==0){
-             System.out.println("GC D of "+a+" and "+b+" is "+i);
+             System.out.println("GCD of "+a+" and "+b+" is "+i);
              System.out.println("LCM of "+a+" and "+b+" is "+(a*b)/i);
              break;
         }
